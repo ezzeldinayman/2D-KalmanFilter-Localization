@@ -1,0 +1,4 @@
+[console_scripts]
+KalmanFilter = kalman_filter.2d_kalmanfilter:main
+Noise = kalman_filter.noise:main
+

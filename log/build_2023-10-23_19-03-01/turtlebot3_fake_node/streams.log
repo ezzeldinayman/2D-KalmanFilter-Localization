@@ -1,0 +1,31 @@
+[0.369s] Invoking command in '/home/ezzedinayman/turtlebot3_localization/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ezzedinayman/turtlebot3_localization/install/kalman_filter:/home/ezzedinayman/ros2_ws/install/my_robot_controller:/home/ezzedinayman/ros2_ws/install/coppelia:/opt/ros/humble /home/ezzedinayman/.local/bin/cmake --build /home/ezzedinayman/turtlebot3_localization/build/turtlebot3_fake_node -- -j8 -l8
+[0.449s] [100%] Built target turtlebot3_fake_node
+[0.877s] Invoked command in '/home/ezzedinayman/turtlebot3_localization/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ezzedinayman/turtlebot3_localization/install/kalman_filter:/home/ezzedinayman/ros2_ws/install/my_robot_controller:/home/ezzedinayman/ros2_ws/install/coppelia:/opt/ros/humble /home/ezzedinayman/.local/bin/cmake --build /home/ezzedinayman/turtlebot3_localization/build/turtlebot3_fake_node -- -j8 -l8
+[0.985s] Invoking command in '/home/ezzedinayman/turtlebot3_localization/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ezzedinayman/turtlebot3_localization/install/kalman_filter:/home/ezzedinayman/ros2_ws/install/my_robot_controller:/home/ezzedinayman/ros2_ws/install/coppelia:/opt/ros/humble /home/ezzedinayman/.local/bin/cmake --install /home/ezzedinayman/turtlebot3_localization/build/turtlebot3_fake_node
+[1.024s] -- Install configuration: ""
+[1.025s] -- Execute custom install script
+[1.026s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[1.026s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[1.027s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[1.027s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[1.028s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[1.028s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[1.029s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[1.029s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[1.030s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[1.030s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[1.030s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[1.030s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[1.031s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[1.031s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[1.032s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[1.032s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[1.032s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[1.033s] -- Symlinking: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[1.036s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[1.037s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.037s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.037s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[1.038s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[1.038s] -- Up-to-date symlink: /home/ezzedinayman/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[1.047s] Invoked command in '/home/ezzedinayman/turtlebot3_localization/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ezzedinayman/turtlebot3_localization/install/kalman_filter:/home/ezzedinayman/ros2_ws/install/my_robot_controller:/home/ezzedinayman/ros2_ws/install/coppelia:/opt/ros/humble /home/ezzedinayman/.local/bin/cmake --install /home/ezzedinayman/turtlebot3_localization/build/turtlebot3_fake_node

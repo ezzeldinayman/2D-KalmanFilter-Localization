@@ -1,0 +1,38 @@
+[1.153s] Invoking command in '/home/ezzedinayman/turtlebot3_localization/build/kalman_filter': PYTHONPATH=/home/ezzedinayman/turtlebot3_localization/build/kalman_filter/prefix_override:/home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/ezzedinayman/turtlebot3_localization/build/kalman_filter/build
+[1.543s] running develop
+[1.543s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.543s]   warnings.warn(
+[1.546s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.546s]   warnings.warn(
+[1.814s] Removing /home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages/kalman-filter.egg-link (link to .)
+[1.865s] Invoked command in '/home/ezzedinayman/turtlebot3_localization/build/kalman_filter' returned '0': PYTHONPATH=/home/ezzedinayman/turtlebot3_localization/build/kalman_filter/prefix_override:/home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/ezzedinayman/turtlebot3_localization/build/kalman_filter/build
+[1.868s] Invoking command in '/home/ezzedinayman/turtlebot3_localization/src/kalman_filter': PYTHONPATH=/home/ezzedinayman/turtlebot3_localization/build/kalman_filter/prefix_override:/home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/kalman_filter build --build-base /home/ezzedinayman/turtlebot3_localization/build/kalman_filter/build install --record /home/ezzedinayman/turtlebot3_localization/build/kalman_filter/install.log --single-version-externally-managed
+[2.226s] running egg_info
+[2.228s] writing ../../build/kalman_filter/kalman_filter.egg-info/PKG-INFO
+[2.228s] writing dependency_links to ../../build/kalman_filter/kalman_filter.egg-info/dependency_links.txt
+[2.229s] writing entry points to ../../build/kalman_filter/kalman_filter.egg-info/entry_points.txt
+[2.229s] writing requirements to ../../build/kalman_filter/kalman_filter.egg-info/requires.txt
+[2.230s] writing top-level names to ../../build/kalman_filter/kalman_filter.egg-info/top_level.txt
+[2.233s] reading manifest file '../../build/kalman_filter/kalman_filter.egg-info/SOURCES.txt'
+[2.235s] writing manifest file '../../build/kalman_filter/kalman_filter.egg-info/SOURCES.txt'
+[2.235s] running build
+[2.235s] running build_py
+[2.235s] running install
+[2.235s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.235s]   warnings.warn(
+[2.236s] running install_lib
+[2.237s] creating /home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages/kalman_filter
+[2.237s] copying /home/ezzedinayman/turtlebot3_localization/build/kalman_filter/build/lib/kalman_filter/2d_kalmanfilter.py -> /home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages/kalman_filter
+[2.237s] copying /home/ezzedinayman/turtlebot3_localization/build/kalman_filter/build/lib/kalman_filter/noise.py -> /home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages/kalman_filter
+[2.237s] copying /home/ezzedinayman/turtlebot3_localization/build/kalman_filter/build/lib/kalman_filter/__init__.py -> /home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages/kalman_filter
+[2.238s] byte-compiling /home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages/kalman_filter/2d_kalmanfilter.py to 2d_kalmanfilter.cpython-310.pyc
+[2.238s] byte-compiling /home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages/kalman_filter/noise.py to noise.cpython-310.pyc
+[2.239s] byte-compiling /home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages/kalman_filter/__init__.py to __init__.cpython-310.pyc
+[2.239s] running install_data
+[2.239s] running install_egg_info
+[2.242s] Copying ../../build/kalman_filter/kalman_filter.egg-info to /home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages/kalman_filter-0.0.0-py3.10.egg-info
+[2.243s] running install_scripts
+[2.273s] Installing KalmanFilter script to /home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/kalman_filter
+[2.273s] Installing Noise script to /home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/kalman_filter
+[2.274s] writing list of installed files to '/home/ezzedinayman/turtlebot3_localization/build/kalman_filter/install.log'
+[2.320s] Invoked command in '/home/ezzedinayman/turtlebot3_localization/src/kalman_filter' returned '0': PYTHONPATH=/home/ezzedinayman/turtlebot3_localization/build/kalman_filter/prefix_override:/home/ezzedinayman/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/kalman_filter build --build-base /home/ezzedinayman/turtlebot3_localization/build/kalman_filter/build install --record /home/ezzedinayman/turtlebot3_localization/build/kalman_filter/install.log --single-version-externally-managed
